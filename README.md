@@ -32,7 +32,7 @@
 <img src="assets/notification.png" alt="Notification" width="260" />
 
 ### Tickets Book
-<img src="assets/tickets_book.png" alt="Tickets Book" width="260" />
+<img src="assets/tickets_book.png" alt="Tickets Book"/>
 
 ## Firebase Features
 
