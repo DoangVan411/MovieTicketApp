@@ -1,0 +1,42 @@
+<resources>
+    <string name="app_name">Movie Ticket App</string>
+    <string name="login_title">Firebase Login</string>
+    <string name="email_hint">Email</string>
+    <string name="password_hint">Password</string>
+    <string name="login">Login</string>
+    <string name="register">Register</string>
+    <string name="logout">Logout</string>
+    <string name="not_signed_in">Not signed in</string>
+    <string name="signed_in_as">Signed in as: %1$s</string>
+
+    <string name="movies_title">Movies</string>
+    <string name="booking_title">Book Ticket</string>
+    <string name="no_movie_selected">Selected movie: none</string>
+    <string name="selected_movie_text">Selected movie: %1$s</string>
+    <string name="seat_count_hint">Seat count</string>
+    <string name="book_ticket">Book Ticket</string>
+
+    <string name="enter_email_password">Please enter email and password</string>
+    <string name="please_login_first">Please login first</string>
+    <string name="select_movie_first">Please select a movie</string>
+    <string name="select_showtime_first">Please select a showtime</string>
+    <string name="enter_seat_count">Please enter seat count</string>
+    <string name="invalid_seat_count">Seat count is invalid</string>
+    <string name="book_ticket_success">Ticket booked and saved to Firebase</string>
+
+    <string name="notification_channel_name">Movie reminders</string>
+    <string name="notification_channel_description">Reminder before your showtime starts</string>
+    <string name="notification_reminder_title">Showtime Reminder</string>
+    <string name="notification_reminder_content">%1$s at %2$s starts at %3$s</string>
+    <string name="notification_permission_denied">Notification permission denied</string>
+
+    <string name="push_default_title">Movie Ticket</string>
+    <string name="push_default_body">You have a new movie notification</string>
+    <string name="back_to_movies">Back To Movies</string>
+    <string name="movie_list_hint">Tap a movie to open booking screen</string>
+    <string name="view_booked_tickets">View Booked Tickets</string>
+    <string name="booked_tickets_title">Booked Tickets</string>
+    <string name="no_booked_tickets">You have not booked any tickets yet</string>
+    <string name="seat_count_text">Seats: %1$d</string>
+    <string name="booked_at_text">Booked at: %1$s</string>
+</resources>
