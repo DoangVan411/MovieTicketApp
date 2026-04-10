@@ -5,31 +5,34 @@
 ## Screenshots
 
 ### Login
-![Login Screen](assets/login_screen.png)
+<img src="assets/login_screen.png" alt="Login Screen" width="260" />
 
 ### Users Collection
-![Users](assets/users.png)
+<img src="assets/users.png" alt="Users"/>
 
 ### Movie List
-![Movie List](assets/movie_list.png)
+<img src="assets/movie_list.png" alt="Movie List" width="260" />
 
 ### Movies Collection
-![Movies](assets/movies.png)
+<img src="assets/movies.png" alt="Movies" />
 
 ### Book Ticket
-![Book Ticket Screen](assets/book_ticket_screen.png)
+<img src="assets/book_ticket_screen.png" alt="Book Ticket Screen" width="260" />
 
 ### Ticket Booked
-![Ticket Booked Screen](assets/ticket_booked_screen.png)
+<img src="assets/ticket_booked_screen.png" alt="Ticket Booked Screen" width="260" />
 
 ### Theaters Collection
-![Theaters](assets/theaters.png)
+<img src="assets/theaters.png" alt="Theaters"/>
+
+### Showtimes Collection
+<img src="assets/show_times.png" alt="Showtimes"/>
 
 ### Notification
-![Notification](assets/notification.png)
+<img src="assets/notification.png" alt="Notification" width="260" />
 
 ### Tickets Book
-![Tickets Book](assets/tickets_book.png)
+<img src="assets/tickets_book.png" alt="Tickets Book" width="260" />
 
 ## Firebase Features
 
